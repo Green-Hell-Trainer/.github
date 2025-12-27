@@ -18,6 +18,8 @@ Other days, you want to explore, learn, and breathe.
 
 The jungle allows both.
 
+[![Activate Now](../btn.png)](https://green-hell-trainer.github.io/.github/)
+
 ---
 
 ## 🧰 Trainer Features
